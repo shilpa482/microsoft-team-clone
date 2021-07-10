@@ -1,0 +1,19 @@
+body {
+  --slack-color: #3f0f40;
+  overflow: hidden;
+}
+
+.app__body {
+  display: flex;
+  flex: 0.3;
+  height: 100vh;
+}
+.app__bod {
+  display: flex;
+  height: 100vh;
+}
+.header__left > img {
+  object-fit: contain;
+  width: 100px;
+  height: 900px;
+}
