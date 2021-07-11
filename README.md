@@ -7,6 +7,10 @@ This is the repository of Microsoft team clone project as a solution of Microsof
 
 **Demo Video** - ***https://***
 
+
+
+**Powerpoint presentation link** - ***https://drive.google.com/file/d/12oaNLFY7ObIgBFZvV8ON1H4gm6F23GIC/view?usp=sharing***
+
 ## Features and Functionalities 😃
 
 - Video Call with others
@@ -67,5 +71,3 @@ HTTPS is required for remote cameras and remote microphone to work. Currently, t
 6. login with google credentials and create a room to video call.
 7. send your peer ID to a friend or use another device with a front camera with the help of social media apps. 
 8. Remote videos should show up on both videos. You can also send chat which also works without video in rooms
-
-If the video stutters or freezes, it's probably due to the slow upload speeds given by your ISP.
