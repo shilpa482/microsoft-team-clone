@@ -2,7 +2,7 @@
 This is the repository of Microsoft team clone project as a solution of Microsoft engage mentorship program 2021
 .This is a video calling application where users can call other user . Their is also real time chat functionality.
 
-**Project Link** - ***https://***
+**Project Link** - ***https://microsoftteams-clone.netlify.app/***
 
 
 **Demo Video** - ***https://***
@@ -22,15 +22,17 @@ This is the repository of Microsoft team clone project as a solution of Microsof
 
 ### Home Page
 
-![enter image description here](https://)
+![enter image description here](https://i.imgur.com/l2GVWHv.png)
 
-### video call
 
-![enter image description here](https://)
+### video call with chatting
+
+![enter image description here](https://i.imgur.com/WS9gdpw.png)
 
 ### Room chatting
 
-![enter image description here](https://)
+![enter image description here](https://i.imgur.com/ap6kpvM.png)
+![enter image description here](https://i.imgur.com/XPKfCjI.png)
 
 ## Tech Stack 💻
 
@@ -56,8 +58,6 @@ This is the repository of Microsoft team clone project as a solution of Microsof
 HTTPS is required for remote cameras and remote microphone to work. Currently, there's no known method for creating SSL certificates for a private IP address. You can easily acquire a free SSL certificate for a public domain.
 
 ## Deployment Steps
-
-If you would like to quickly test out the app on a public domain without dealing with the hassles of setting up SSL, simply deploy they app with [now.sh](https://zeit.co/now)
 
 1. Clone repository
 2. Run `npm install`
